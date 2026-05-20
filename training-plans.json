@@ -2,106 +2,106 @@
   "plans": [
     {
       "id": "beginner_4week",
-      "title": "4 ukers scanning-grunnkurs",
-      "description": "Bygg scanning-vanen fra bunnen av med progressive utfordringer. Perfekt for spillere som er nye til systematisk scanning-trening.",
-      "durationLabel": "4 uker",
+      "title": "4-Week Scanning Foundation",
+      "description": "Build the scanning habit from the ground up with progressive challenges. Perfect for players new to systematic scanning training.",
+      "durationLabel": "4 weeks",
       "sessionsPerWeek": 3,
       "difficulty": "Beginner",
       "isSubscriberOnly": true,
       "weeks": [
         {
           "weekNumber": 1,
-          "title": "Uke 1: Bygg vanen",
+          "title": "Week 1: Build the Habit",
           "sessions": [
             {
-              "day": "Mandag",
+              "day": "Monday",
               "patternName": "Beginner (5s)",
               "durationMinutes": 15,
-              "notes": "Fokus på å bli komfortabel med vibrasjonene. Scan grundig 180° etter hvert signal — ta deg god tid."
+              "notes": "Focus on getting comfortable with the vibrations. Take your time scanning a full 180° after each signal."
             },
             {
-              "day": "Onsdag",
+              "day": "Wednesday",
               "patternName": "Beginner (5s)",
               "durationMinutes": 15,
-              "notes": "Legg merke til om du begynner å forvente vibrasjonen. Det er normalt — vi bryter det mønsteret senere."
+              "notes": "Notice if you start anticipating the vibration. That is normal — we will break that pattern later."
             },
             {
-              "day": "Fredag",
+              "day": "Friday",
               "patternName": "Beginner (5s)",
               "durationMinutes": 20,
-              "notes": "Øk varigheten til 20 min. Kombiner gjerne med ball — pasningsveggen eller teknikkøvelser."
+              "notes": "Increase to 20 minutes. Combine with ball work — wall passes or technical drills work well."
             }
           ]
         },
         {
           "weekNumber": 2,
-          "title": "Uke 2: Øk tempoet",
+          "title": "Week 2: Increase the Pace",
           "sessions": [
             {
-              "day": "Mandag",
+              "day": "Monday",
               "patternName": "Intermediate (3s)",
               "durationMinutes": 15,
-              "notes": "Raskere intervaller — du har nå halvparten av tid til scanning. Fokus på effektiv hodebevegelse."
+              "notes": "Faster intervals — you now have half the time to scan. Focus on efficient head movement."
             },
             {
-              "day": "Onsdag",
+              "day": "Wednesday",
               "patternName": "Intermediate (3s)",
               "durationMinutes": 20,
-              "notes": "Kombiner med bevegelse. Scan mens du løper lett — slik det skjer i kamp."
+              "notes": "Combine with movement. Scan while jogging lightly — as it happens in a match."
             },
             {
-              "day": "Lørdag",
+              "day": "Saturday",
               "patternName": "Beginner (5s)",
               "durationMinutes": 25,
-              "notes": "Aktiv restitusjon — tilbake til Beginner men lenger økt. Konsolider det du har lært."
+              "notes": "Active recovery — back to Beginner but longer session. Consolidate what you have learned."
             }
           ]
         },
         {
           "weekNumber": 3,
-          "title": "Uke 3: Kampforberedelse",
+          "title": "Week 3: Match Preparation",
           "sessions": [
             {
-              "day": "Tirsdag",
+              "day": "Tuesday",
               "patternName": "Pre-Match Warmup",
               "durationMinutes": 20,
-              "notes": "Bruk Premium-mønsteret Pre-Match Warmup. Progressivt raskere — perfekt som oppvarming til trening."
+              "notes": "Use the Premium pattern Pre-Match Warmup. Progressively faster — perfect as a warm-up before training."
             },
             {
-              "day": "Torsdag",
+              "day": "Thursday",
               "patternName": "Decision Maker",
               "durationMinutes": 20,
-              "notes": "Decision Maker gir uregelmessige intervaller — du kan ikke forutse neste vibrasjon. Hjernen må forbli aktiv."
+              "notes": "Decision Maker uses irregular intervals — you cannot predict the next vibration. Your brain must stay alert."
             },
             {
-              "day": "Lørdag",
+              "day": "Saturday",
               "patternName": "Pro (2s)",
               "durationMinutes": 15,
-              "notes": "Høy intensitet. Korte intervaller setter scanning-automatikken på prøve. Hvil etterpå."
+              "notes": "High intensity. Short intervals test your scanning automation. Rest afterwards."
             }
           ]
         },
         {
           "weekNumber": 4,
-          "title": "Uke 4: Konsolidering",
+          "title": "Week 4: Consolidation",
           "sessions": [
             {
-              "day": "Mandag",
+              "day": "Monday",
               "patternName": "Match Tempo",
               "durationMinutes": 25,
-              "notes": "Match Tempo simulerer kamprytmen med varierende press. Du er klar for dette nå."
+              "notes": "Match Tempo simulates match rhythm with varying pressure. You are ready for this now."
             },
             {
-              "day": "Onsdag",
+              "day": "Wednesday",
               "patternName": "Decision Maker",
               "durationMinutes": 25,
-              "notes": "Lengre økt med Decision Maker. Mål: scanning skal begynne å føles automatisk."
+              "notes": "Longer session with Decision Maker. Goal: scanning should be starting to feel automatic."
             },
             {
-              "day": "Fredag",
+              "day": "Friday",
               "patternName": "Intermediate (3s)",
               "durationMinutes": 30,
-              "notes": "Avsluttende økt — tilbake til Intermediate for å måle fremgang. Merker du at det er blitt lettere?"
+              "notes": "Final session — back to Intermediate to measure progress. Does it feel easier than week 2?"
             }
           ]
         }
@@ -109,82 +109,82 @@
     },
     {
       "id": "preseason_2week",
-      "title": "Pre-sesong intensivkurs",
-      "description": "2 ukers høyintensitets-program for å maksimere scanning-frekvensen før sesongstart. For spillere med grunnleggende scanning-erfaring.",
-      "durationLabel": "2 uker",
+      "title": "Pre-Season Intensive",
+      "description": "2-week high-intensity program to maximise scanning frequency before the season starts. For players with basic scanning experience.",
+      "durationLabel": "2 weeks",
       "sessionsPerWeek": 5,
       "difficulty": "Intermediate",
       "isSubscriberOnly": true,
       "weeks": [
         {
           "weekNumber": 1,
-          "title": "Uke 1: Intensivering",
+          "title": "Week 1: Intensification",
           "sessions": [
             {
-              "day": "Mandag",
+              "day": "Monday",
               "patternName": "Decision Maker",
               "durationMinutes": 20,
-              "notes": "Start med uregelmessige intervaller for å aktivere scanning-refleksene etter pause."
+              "notes": "Start with irregular intervals to reactivate your scanning reflexes after a break."
             },
             {
-              "day": "Tirsdag",
+              "day": "Tuesday",
               "patternName": "Match Tempo",
               "durationMinutes": 25,
-              "notes": "Kampnært mønster. Kombiner med ballarbeid under hele økten."
+              "notes": "Match-realistic pattern. Combine with ball work throughout the entire session."
             },
             {
-              "day": "Onsdag",
+              "day": "Wednesday",
               "patternName": "Pro (2s)",
               "durationMinutes": 20,
-              "notes": "Høy intensitet midtveis i uka. Fokus på kvalitet fremfor kvantitet."
+              "notes": "High intensity midweek. Focus on quality over quantity."
             },
             {
-              "day": "Torsdag",
+              "day": "Thursday",
               "patternName": "Intermediate (3s)",
               "durationMinutes": 30,
-              "notes": "Lengre økt med moderate intervaller — aktiv restitusjon fra onsdagens intensitet."
+              "notes": "Longer session with moderate intervals — active recovery from Wednesday's intensity."
             },
             {
-              "day": "Fredag",
+              "day": "Friday",
               "patternName": "Decision Maker",
               "durationMinutes": 25,
-              "notes": "Ukeens avslutning med kampfokus. Sett deg mål: scan 360° ved hvert signal."
+              "notes": "End the week with match focus. Set a goal: scan 360° at every single signal."
             }
           ]
         },
         {
           "weekNumber": 2,
-          "title": "Uke 2: Kampfokus",
+          "title": "Week 2: Match Focus",
           "sessions": [
             {
-              "day": "Mandag",
+              "day": "Monday",
               "patternName": "Match Tempo",
               "durationMinutes": 30,
-              "notes": "Øk varigheten — du skal nå opp i kampnær scanning-tretthet."
+              "notes": "Increase duration — you should now reach near-match scanning fatigue."
             },
             {
-              "day": "Tirsdag",
+              "day": "Tuesday",
               "patternName": "Defender Focus",
               "durationMinutes": 25,
-              "notes": "Posisjonsspesifikk økt. Fokus på bakrom-scanning og pressoversikt."
+              "notes": "Position-specific session. Focus on back-space scanning and pressure awareness."
             },
             {
-              "day": "Onsdag",
+              "day": "Wednesday",
               "patternName": "Pro (2s)",
               "durationMinutes": 20,
-              "notes": "Maksimal intensitet midtveis. Scanning skal nå skje nesten automatisk."
+              "notes": "Maximum intensity midweek. Scanning should now feel nearly automatic."
             },
             {
-              "day": "Torsdag",
+              "day": "Thursday",
               "patternName": "Pre-Match Warmup",
               "durationMinutes": 20,
-              "notes": "Bruk oppvarmingsmønsteret som forberedelse til morgensdagens kamp/test."
+              "notes": "Use the warmup pattern to prepare for tomorrow's match or test."
             },
             {
-              "day": "Fredag",
+              "day": "Friday",
               "patternName": "Decision Maker",
               "durationMinutes": 30,
-              "notes": "Sesongavslutning. Test deg selv: scanner du nå uten å tenke på det?"
+              "notes": "Season opener. Test yourself: are you scanning now without thinking about it?"
             }
           ]
         }
@@ -192,28 +192,28 @@
     },
     {
       "id": "weekly_maintenance",
-      "title": "Ukentlig vedlikeholdsprogram",
-      "description": "For spillere som har fullført grunnkurset. Oppretthold og videreutvikl scanning-automatikken gjennom sesongen.",
-      "durationLabel": "Løpende",
+      "title": "Weekly Maintenance Program",
+      "description": "For players who have completed the foundation course. Maintain and develop scanning automation throughout the season.",
+      "durationLabel": "Ongoing",
       "sessionsPerWeek": 2,
       "difficulty": "Intermediate",
       "isSubscriberOnly": true,
       "weeks": [
         {
           "weekNumber": 1,
-          "title": "Ukentlig mal (gjenta hver uke)",
+          "title": "Weekly Template (repeat every week)",
           "sessions": [
             {
-              "day": "Tirsdag",
+              "day": "Tuesday",
               "patternName": "Decision Maker",
               "durationMinutes": 25,
-              "notes": "Uregelmessige intervaller holder scanning-automatikken skarp. Kombiner alltid med ball eller bevegelse."
+              "notes": "Irregular intervals keep scanning automation sharp. Always combine with ball work or movement."
             },
             {
-              "day": "Torsdag",
+              "day": "Thursday",
               "patternName": "Match Tempo",
               "durationMinutes": 25,
-              "notes": "Kampnært mønster. Visualiser kampsituasjoner under treningen for å styrke den mentale koblingen."
+              "notes": "Match-realistic pattern. Visualise match situations during training to strengthen the mental connection."
             }
           ]
         }

@@ -3,7 +3,7 @@
     {
       "id": "decision_maker",
       "name": "Decision Maker",
-      "description": "Uregelmessige intervaller som treffer kampvirkeligheten. Umulig å forutse — hjernen må forbli aktiv hele tiden.",
+      "description": "Irregular intervals that mirror match reality. Impossible to predict — your brain must stay active throughout.",
       "intervals": [2.5, 3.2, 1.8, 2.8, 3.5, 2.2, 1.5, 3.0],
       "difficulty": "Intermediate",
       "addedDate": "2026-05-01"
@@ -11,7 +11,7 @@
     {
       "id": "match_tempo",
       "name": "Match Tempo",
-      "description": "Simulerer variasjonen i et reelt kamptempo — perioder med press etterfulgt av pusterom.",
+      "description": "Simulates the variation of real match pace — periods of high pressure followed by breathing room.",
       "intervals": [2.0, 4.0, 1.5, 3.0, 2.5, 1.0, 3.5, 2.0],
       "difficulty": "Advanced",
       "addedDate": "2026-05-01"
@@ -19,7 +19,7 @@
     {
       "id": "pre_match_warmup",
       "name": "Pre-Match Warmup",
-      "description": "Progressivt raskere intervaller som varmer opp scanning-beredskapen fra rolig til kampfokus.",
+      "description": "Progressively faster intervals that warm up your scanning readiness from calm to match focus.",
       "intervals": [5.0, 4.5, 4.0, 3.5, 3.0, 2.5, 2.0, 1.8],
       "difficulty": "Beginner",
       "addedDate": "2026-05-01"
@@ -27,7 +27,7 @@
     {
       "id": "defender_focus",
       "name": "Defender Focus",
-      "description": "Konsistent tempo med gradvis akselerasjon — spesialdesignet for backs og stoppere.",
+      "description": "Consistent tempo with gradual acceleration — designed specifically for fullbacks and centre-backs.",
       "intervals": [3.0, 3.0, 2.8, 2.8, 2.5, 2.5, 2.2, 2.0],
       "difficulty": "Intermediate",
       "addedDate": "2026-05-15"
