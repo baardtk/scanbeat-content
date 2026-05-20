@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Kom i gang med ScanBeat",
+      "excerpt": "Slik bruker du ScanBeat og Apple Watch for å forbedre scanningen din på fotballbanen.",
+      "publishedDate": "2026-05-01",
+      "isSubscriberOnly": false,
+      "isFeatured": true,
+      "thumbnailURL": null,
+      "content": "# Kom i gang med ScanBeat\n\nVelkommen til ScanBeat — appen som hjelper fotballspillere å trene på scanning ved hjelp av Apple Watch.\n\n## Hva er scanning?\n\nScanning er evnen til å raskt observere og vurdere situasjonen rundt deg på banen *før* du mottar ballen. Spillere med god scanning:\n\n- Tar bedre beslutninger raskere\n- Finner åpne medspillere tidligere\n- Unngår press fra motspillere\n- Skaper bedre bevegelse og flyt for laget\n\n## Hvordan fungerer ScanBeat?\n\nScanBeat sender vibrasjoner via Apple Watch på jevne eller uregelmessige intervaller. Hver vibrasjon er et signal: **scan nå**.\n\nOver tid internaliserer hjernen dette mønsteret, og scanning blir automatisk — også uten klokken.\n\n## Sett opp appen\n\n1. Åpne **Training**-fanen og velg et mønster\n2. Trykk «Activate on Watch» for å starte vibrasjonene\n3. Under trening: scan grundig 180–360° hver gang klokken vibrerer\n\n**Start med Beginner (5 sekunder)** og jobb deg oppover etter hvert som scanning-vanene sitter.\n\n## Tips for best resultat\n\n- Tren 3–4 ganger per uke for å se rask fremgang\n- Kombiner med vanlig fotballtrening — teknikkøvelser og småkamper\n- Bytt til raskere mønstre når gjeldende mønster føles naturlig\n- Bruk **Learn**-fanen for strukturerte treningsprogrammer"
+    },
+    {
+      "id": "2",
+      "title": "Hva er scanning og hvorfor er det viktig?",
+      "excerpt": "Scanning er en av de viktigste ferdighetene i moderne fotball. Her er forskningen bak, og hvorfor de beste spillerne gjør det hele tiden.",
+      "publishedDate": "2026-05-05",
+      "isSubscriberOnly": false,
+      "isFeatured": false,
+      "thumbnailURL": null,
+      "content": "# Hva er scanning og hvorfor er det viktig?\n\n## Definisjonen\n\nScanning i fotball betyr å aktivt dreie hodet for å samle informasjon om banen — motspillere, medspillere, rom og ballens posisjon — *før* du mottar pasningen.\n\n## Forskning bak ferdighetene\n\nStudier av elitespillere viser at de scanner i gjennomsnitt **0,5–1 sekund** før de mottar ballen. Denne tilsynelatende lille tidsforskjellen gir hjernen tid til å prosessere situasjonen og ta en beslutning *mens* ballen er i luften.\n\nSpillere som scanner sjeldnere bruker i stedet denne sekundet *etter* mottak — da er det for seint å unngå press.\n\n## Hva skjer i hjernen?\n\nWhen you scan and store spatial information, your working memory creates what researchers call a *cognitive map* of the playing field. This mental model lets you make decisions instantly, almost automatically.\n\nMed regelmessig trening — som ScanBeat gir — forsterkes de nevrale koblingene for romlig bevissthet, og scanning går fra en bevisst handling til en ubevisst vane.\n\n## Hvem gjør dette best?\n\nVideoanalyse av Xavi Hernández, Sergio Busquets og Thiago Alcântara viser at disse midtbanespillerne scanner i gjennomsnitt **2,5–3,5 ganger per sekund** med ball. Det er ikke talent — det er trening over år.\n\n## Konklusjon\n\nScanning er en motorisk og kognitiv ferdighet som kan trenes systematisk. ScanBeat gir deg det daglige stimuliet hjernen trenger for å automatisere denne ferdigheten."
+    },
+    {
+      "id": "3",
+      "title": "Optimale intervaller for scanning-trening",
+      "excerpt": "Ikke alle vibrasjonsintervaller er like effektive. Her er vitenskapen bak hvilke mønstre som gir raskest fremgang.",
+      "publishedDate": "2026-05-10",
+      "isSubscriberOnly": true,
+      "isFeatured": false,
+      "thumbnailURL": null,
+      "content": "# Optimale intervaller for scanning-trening\n\n## Hvorfor intervallet betyr noe\n\nIntervallet mellom vibrasjonssignalene er ikke tilfeldig — det bestemmer hva hjernen trener på.\n\n**Lange intervaller (4–5s):** Bygger vanen. Hjernen rekker å behandle informasjonen grundig, og spilleren lærer *hva* god scanning ser ut som.\n\n**Mellomintervaller (2–3s):** Øker tempo uten å overbelaste. Ideelt for spillere som vil matche kamptempo.\n\n**Korte intervaller (1–1.5s):** Trener reaktiv scanning — der scanning er en nesten-refleks. Krever god grunntrening.\n\n**Uregelmessige intervaller:** De mest effektive for kampforberedelse. Uten forutsigbart mønster kan spilleren ikke «jukse» — hjernen må aktivt opprettholde årvåkenhet.\n\n## Periodisering\n\nFor best fremgang anbefaler vi en progressiv tilnærming:\n\n- **Uke 1–2:** Beginner (5s) — bygg vanen\n- **Uke 3–4:** Intermediate (3s) — øk tempo\n- **Uke 5–6:** Pro (2s) + Decision Maker (uregelmessig) — kampforberedelse\n- **Vedlikehold:** Roter mellom Intermediate og Pro\n\n## Premium-mønstrene er designet for disse prinsippene\n\nMønstrene under **Premium Scanning Intervals** i Training-fanen er laget spesifikt for ulike treningsfaser og posisjoner — med intervallsekvenser optimert for scanning-utvikling."
+    },
+    {
+      "id": "4",
+      "title": "Scanning for ulike spillerposisjoner",
+      "excerpt": "En midtbanespiller scanner annerledes enn en back. Her er posisjonsspesifikke strategier for å maksimere scanning-effekten.",
+      "publishedDate": "2026-05-15",
+      "isSubscriberOnly": true,
+      "isFeatured": false,
+      "thumbnailURL": null,
+      "content": "# Scanning for ulike spillerposisjoner\n\n## Midtbanespillere\n\nMidtbanen er der kampen vinnes og tapes gjennom scanning. Viktigste punkter:\n\n- **Scan bakrommet** bak motstandernes midtlinje kontinuerlig\n- **180°-scan** rett før mottak er obligatorisk\n- Fokuser på å se hvilken fot motspiller er på — avgjørende for presspredikering\n- **Anbefalt mønster:** Decision Maker (uregelmessig) — treffer kampvirkeligheten best\n\n## Backs og wingbacks\n\nFor backs er scanning primært defensivt orientert:\n\n- Scan rommet mellom deg og nærmeste angriper kontinuerlig\n- Kjenn til kantspisserens bevegelsesmønstre\n- Under offensiv oppmarsj: scan hele linjene for kontringsmuligheter\n- **Anbefalt mønster:** Defender Focus — kortere intervaller med konsistent tempo\n\n## Angripere\n\nAngripere scanner for å finne rom, ikke ball:\n\n- Scan forsvarslinjen for bevegelse og huller\n- Observer midtbanens posisjon for timing på løpsstart\n- **Anbefalt mønster:** Match Tempo — variasjon i intervaller etterligner kamptempo\n\n## Keepere\n\nKeeperscanning handler om bildeutbygging:\n\n- Scan banen bredt — 180° — etter hvert ballinntak\n- Prioriter å identifisere frie spillere før ballen kommer\n- **Anbefalt mønster:** Pre-Match Warmup — progressivt raskere, bygger opp til kampfokus"
+    },
+    {
+      "id": "5",
+      "title": "Fra øvelse til instinkt: Automatiser scanningen din",
+      "excerpt": "Slik går scanning fra noe du husker på til noe du gjør automatisk — og hva ScanBeat gjør for å akselerere denne prosessen.",
+      "publishedDate": "2026-05-20",
+      "isSubscriberOnly": true,
+      "isFeatured": false,
+      "thumbnailURL": null,
+      "content": "# Fra øvelse til instinkt: Automatiser scanningen din\n\n## Motorisk læring og automatisering\n\nAlle motoriske ferdigheter — dribbling, pasning, heading — begynner som bevisste handlinger. Med nok repetisjon flyttes de til den del av hjernen (basalgangliene) som håndterer automatiske bevegelser.\n\nScanning er intet unntak. Målet er at du scanner *uten å tenke på det* — slik at kognitiv kapasitet frigjøres til taktiske avgjørelser.\n\n## Tre faser i læringsreisen\n\n**Fase 1 – Bevisst og klønete (uke 1–3)**\nDu tenker aktivt på å scanne når klokken vibrerer. Det føles unaturlig og du mister noen ganger konsentrasjonen om ballen.\n\n**Fase 2 – Bevisst og kompetent (uke 4–8)**\nScanning-signalet fra klokken utløser automatisk handling. Du begynner å scanne uten å tenke, men bare når klokken vibrerer.\n\n**Fase 3 – Ubevisst og kompetent (uke 9+)**\nScanning skjer kontinuerlig, også uten klokken. Frekvensen øker, og du reagerer på informasjon du «visste» uten å vite at du hadde sett det.\n\n## Hva ScanBeat gjør\n\nScanBeat bruker operant betinging: vibrasjon → scanning → belønning (bedre beslutning). Gjentatt nok ganger er hjernen betinget til å scanne uten ekstern stimulus.\n\nDe strukturerte treningsprogrammene i **Learn**-fanen er designet for å ta deg gjennom disse tre fasene systematisk."
+    }
+  ]
+}
